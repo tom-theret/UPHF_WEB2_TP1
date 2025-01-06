@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div>
+        <input type="button" value="Ajouter une tâche" id="addTask">
+        <input type="text" name="task" id="taskText">
+        <select name="filter" id="filter">
+            <option value="all">Toutes les tâches</option>
+            <option value="completed">Tâches terminées</option>
+            <option value="uncompleted">Tâches non terminées</option>
+        </select>
+    </div>
+
+    <table id="taskTable">
+        <caption>Todo List</caption>
+        <thead>
+            <tr>
+                <th>N°</th>
+                <th>Tâche</th>
+                <th>Terminé</th>
+                <th>Supprimer</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</body>
+</html>
+
+<script src="./index.js"></script>
