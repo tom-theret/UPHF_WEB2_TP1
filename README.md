@@ -15,7 +15,7 @@ Ce projet est une application de gestion de tâches simple et interactive, perme
 ## Installation et Utilisation
 
 1. **Téléchargez les fichiers** :
-   - Cloner le dépôt ou téléchargez les fichiers sources depuis [GitHub](https://github.com/tom-theret/UPHF-WEB2-TP1).
+   - Cloner le dépôt ou téléchargez les fichiers sources depuis [GitHub](https://github.com/tom-theret/UPHF_WEB2_TP1).
 
 2. **Ouvrez le fichier HTML** :
    - Lancez l'application en ouvrant le fichier `index.html` dans votre navigateur.
